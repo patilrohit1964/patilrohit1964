@@ -4,7 +4,7 @@
 </p>
 
 <!-- Profile Picture -->
-<p align="center">
+<p align="center" style="overflow:hidden;">
   <img src="https://avatars.githubusercontent.com/u/113540316?s=400&u=f3f1932a90d3d3ccacced3a7d10973d613c59501&v=4" width="150" style="border-radius: 50%;" />
 </p>
 

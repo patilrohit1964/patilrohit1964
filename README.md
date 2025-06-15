@@ -84,4 +84,4 @@
 ---
 
 <!-- 🙏 Thank You -->
-<p align="center">Thanks for visiting my profile! 💙</p>
+<p align="center">Thanks for visiting my profile! ❤️</p>

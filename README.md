@@ -12,6 +12,13 @@
 
 ---
 
+<!-- 🎉 Top Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjExcXRtMWhydXZoYnNkaWNjZHkwcnA4cW0zNHllbGF4NGw5NWo2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Animated Banner" />
+</p>
+
+---
+
 ### 💻 About Me
 
 - 🎓 BSC.IT Student @ Swarnium University
@@ -26,6 +33,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,figma,vscode,git,github" />
+</p>
+
+---
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=patilrohit1964&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -67,3 +80,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/patilrohit1964/patilrohit1964/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+---
+
+<!-- 🙏 Thank You -->
+<p align="center">Thanks for visiting my profile! 💙</p>

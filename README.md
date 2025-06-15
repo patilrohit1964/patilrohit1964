@@ -5,7 +5,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/113540316?s=400&u=f3f1932a90d3d3ccacced3a7d10973d613c59501&v=4" width="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">🌟 Rohit Patil | Full Stack Developer</h1>
@@ -15,7 +15,7 @@
 ### 💻 About Me
 
 - 🎓 BSC.IT Student @ Swarnium University
-- 🧠 Learning: MERN Stack, Next.js, GraphQL, Docker
+- 🧠 Learning: MERN Stack, Next.js, GraphQL, Docker, TypeScript
 - 🚀 Passionate about modern UI/UX and real-world projects
 - 🎯 Goal: Become a top-level full-stack developer
 - 📝 [Check out my portfolio](https://your-portfolio-link.com)

@@ -83,5 +83,9 @@
 
 ---
 
-<!-- 🙏 Thank You -->
-<p align="center">Thanks for visiting my profile! ❤️</p>
+<!-- 🙏 Footer -->
+<p align="center">
+  Thanks for visiting my profile!  
+  <br/>
+  🔥 Keep coding and building cool things!
+</p>

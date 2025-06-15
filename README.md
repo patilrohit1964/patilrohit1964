@@ -18,7 +18,7 @@
 - 🧠 Learning: MERN Stack, Next.js, GraphQL, Docker, TypeScript
 - 🚀 Passionate about modern UI/UX and real-world projects
 - 🎯 Goal: Become a top-level full-stack developer
-- 📝 [Check out my portfolio](https://your-portfolio-link.com)
+- 📝 [Check out my portfolio](https://my-portfolio-silk-gamma-78.vercel.app/)
 
 ---
 

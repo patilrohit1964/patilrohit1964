@@ -33,12 +33,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitpatil&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitpatil&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=patilrohit1964&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=patilrohit1964&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpatil&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilrohit1964&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rohitpatil&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=patilrohit1964&theme=tokyo-night" />
 </p>
 
 ---

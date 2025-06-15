@@ -46,7 +46,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilrohit1964&theme=rogue" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilrohit1964&theme=gruvbox" />
 </p>
 
 ---

@@ -57,16 +57,13 @@
   <a href="https://www.linkedin.com/in/rohitpatil/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:patilrohit19649@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitpatil/patilrohit1964/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/patilrohit1964/patilrohit1964/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>

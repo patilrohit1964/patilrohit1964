@@ -13,8 +13,8 @@
 ---
 
 <!-- 🎉 Top Animated Banner -->
-<p align="center" width="100%">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjExcXRtMWhydXZoYnNkaWNjZHkwcnA4cW0zNHllbGF4NGw5NWo2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Animated Banner" />
+<p align="center" width="100%" style="widht:100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjExcXRtMWhydXZoYnNkaWNjZHkwcnA4cW0zNHllbGF4NGw5NWo2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Animated Banner" style="width:100%" />
 </p>
 
 ---
